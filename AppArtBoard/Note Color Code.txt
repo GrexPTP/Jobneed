@@ -5,3 +5,5 @@ Background color for all:
 3: #8E24AA
 4: #7B1FA2
 5: #4A148C
+
+Color of "Need" logo + background logo: #9A26AF
