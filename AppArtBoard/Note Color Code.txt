@@ -1,0 +1,7 @@
+Background color for all:
+5 sections from (1 top right - 5 bottom left) divide distance equally
+1: #BA68C8
+2: #9C27B0
+3: #8E24AA
+4: #7B1FA2
+5: #4A148C
